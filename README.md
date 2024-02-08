@@ -1,8 +1,8 @@
  
 <p align="center">  
-  <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://avatars.githubusercontent.com/u/106463398?v=4">
-    <h1 align="center">Hy 👋 Guru Here</h1>
+  <a href="https://github.com/LuciZR>
+    <img alt="LuciZR" height="300" src="https://avatars.githubusercontent.com/u/106463398?v=4">
+    <h1 align="center">Hy 👋 Luci Here</h1>
   </a>
 </p>
 <p align="center">
