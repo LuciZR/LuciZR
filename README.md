@@ -99,10 +99,10 @@
 
 <p align="center">
 
-<a href="https://dev.to/billypentester">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bilal Ahmad's DEV Community Profile" eight="10%" width="10%">
+<a href="https://dev.to/LuciZR">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luci's DEV Community Profile" eight="10%" width="10%">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/users/billypentester">
+<a href="https://www.credly.com/users/LuciZR">
     <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" alt="Bilal Ahmad's Credly Community Profile" height="10%" width="10%">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.qwiklabs.com/public_profiles/5b9e3fa4-929f-4307-8796-5c7865b230ce">
@@ -207,9 +207,9 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/billypentester">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=billypentester&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billypentester&layout=compact&langs_count=10&theme=algolia"/>
+<a href="https://github.com/LuciZR">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuciZR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuciZR&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
