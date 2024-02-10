@@ -1,10 +1,10 @@
 ##  Hey, I'm [LuciZR!](https://billypentester.github.io/)  <img src="https://bestanimations.com/media/india/627097216india-flag-waving-animated-gif.gif" width="3%" height="3%">
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=billypentester&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/billypentester?label=follow&style=social)](https://github.com/billypentester)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=LuciZR&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/LuciZR?label=follow&style=social)](https://github.com/LuciZR)&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/made%20in%20-Pakistan-brightgreen"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Ask%20me-anything-important.svg"></a>&nbsp;
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/billypentester)&nbsp;
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LuciZR)&nbsp;
 
 ![](https://raw.githubusercontent.com/billypentester/billypentester/main/header_.png)
 
