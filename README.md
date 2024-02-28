@@ -12,7 +12,7 @@ Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently wor
 
 ##
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
-* [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://api.whatsapp.com/send?phone=+918393838182)
+* [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://api.whatsapp.com/send?phone=+918293838182)
 *  [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽2](https://api.whatsapp.com/send?phone=+919733377065)
 <br>
 
