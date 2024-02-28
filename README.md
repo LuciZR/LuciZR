@@ -43,7 +43,3 @@ Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently wor
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![𝑳𝒖𝒄𝒊's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuciZR&theme=high-contrast)](https://github.com/LuciZR)
-
-![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
