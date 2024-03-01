@@ -31,7 +31,7 @@ Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently wor
 <a href="https://api.whatsapp.com/send?phone=918293838182&text=%F0%9D%99%B7%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%98+%F0%9D%99%BB%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%92+%F0%9D%9A%82%F0%9D%9A%92%F0%9D%9A%9B"><img alt="WhatsApp" src="https://img.shields.io/badge/𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
- <a href="https://api.whatsapp.com/send?phone=916296851422&text=%F0%9D%99%B7%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%98+%F0%9D%99%BB%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%92+%F0%9D%9A%82%F0%9D%9A%92%F0%9D%9A%9B"><img alt="WhatsApp 2" src="https://img.shields.io/badge/𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ <a href="https://api.whatsapp.com/send?phone=916296851422&text=%F0%9D%99%B7%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%98+%F0%9D%99%BB%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%92+%F0%9D%9A%82%F0%9D%9A%92%F0%9D%9A%9B"><img alt="WhatsApp 2" src="https://img.shields.io/badge/𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <br>
 
 * I am from India, Murshidabad.
