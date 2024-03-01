@@ -2,15 +2,16 @@
 
 # <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/I.LUCI.ZR/)⠀𝑴𝒀 𝑺𝑬𝑳𝑭 𝐋𝐔𝐂𝐈⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
 
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/LuciZR/count.svg" />
+</p>
 
 <div align="center">
 <img height="165px" src='https://github-readme-stats.vercel.app/api?username=LuciZR&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
 </div>
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/LuciZR/count.svg" />
-</p>
+
 
 <div align="left">
 Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
