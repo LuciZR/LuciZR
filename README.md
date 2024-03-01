@@ -3,7 +3,7 @@
 #
 <p align="center">  
   <a href="https://www.facebook.com/I.LUCI.ZR">
-    <img alt=LuciZR height=600 src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg">
+    <img alt=LuciZR height="600" src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg">
    
 </a> 
     
