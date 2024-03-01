@@ -1,7 +1,7 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
 #
-<h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/I.LUCI.ZR/)⠀𝑴𝒀 𝑺𝑬𝑳𝑭 𝐋𝐔𝐂𝐈 | 
+<h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/I.LUCI.ZR/)⠀𝑴𝒀 𝑺𝑬𝑳𝑭 𝐋𝐔𝐂𝐈)</h1>
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
