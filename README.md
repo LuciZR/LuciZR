@@ -18,11 +18,13 @@
 
 <img hight="150" width="200" alt="GIF" align="right" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif">
 
+---
+
 <div align="center">
 <img height="165px" src='https://github-readme-stats.vercel.app/api?username=LuciZR&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
 </div>
 
-
+---
 
 <div align="left">
 Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
