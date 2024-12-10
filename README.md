@@ -41,8 +41,14 @@ Hello babies, my name is 𝑳𝒖𝒄𝒊 and I'm a bot developer. Currently wor
 <br>
 
 
-| ![Luci's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciZR&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciZR&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
-| ----- | ----- |
+## My github stats 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+</picture>
+
    
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
